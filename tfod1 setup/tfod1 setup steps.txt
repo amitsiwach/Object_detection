@@ -1,0 +1,6 @@
+1) Clone the repo V.13
+2) Download the pretrained Model (e.g., Faster RCNN)
+3) Download the dataset/utils
+4) Install TF, setup.py in research folder
+5) Protos conversion to .py
+6) Run the notebook (default prediction on 2 images)

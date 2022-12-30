@@ -104,6 +104,11 @@ cap.release()
  
 #Labelimg link
 https://tzutalin.github.io/labelImg/
+or
+Check this link:
+https://github.com/heartexlabs/labelImg/releases
+
+
  
 #paste your images folder conataining your train and test images with xml files
 eg.(images/train/image1.jpg and image1.xml)
